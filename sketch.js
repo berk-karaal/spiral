@@ -13,7 +13,7 @@ function setup() {
 let n = 100;
 let a = 0;
 let run = true;
-let speed = 0.0000002;
+let speed = 0.0000025;
 function draw() {
   if (run) {
     background(200);
