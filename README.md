@@ -6,7 +6,7 @@ There is a gif about program  ↓↓↓
 
 ![program gif](spiral_gif.gif "Spiral gif")
 
-Try it :arrow_right: http://berkkaraal.com/spiral/ 
+Try it :arrow_right: https://berkkaraal.com/p5js/spiral/ 
 
 ----
 
